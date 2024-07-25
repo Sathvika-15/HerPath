@@ -88,5 +88,5 @@ Contributions are what make the open-source community such an amazing place to b
 
 
 ## Contact
-- **Your Name** - [21b01a0532@svecw.edu.in](mailto:21b01a0532@svecw.edu.in)
+- **Name** - [21b01a0532@svecw.edu.in](mailto:21b01a0532@svecw.edu.in)
 - **Project Link**: [https://github.com/Sathvika-15/herpath](https://github.com/Sathvika-15/herpath)
