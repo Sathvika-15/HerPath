@@ -1,0 +1,32 @@
+.navbar {
+    background-color: hsl(0, 75%, 2%); /* Light gray background */
+    padding: 10px 20px; /* Add some padding for spacing */
+    display: flex; /* Align items horizontally */
+    justify-content: flex-end; /* Spread items out evenly */
+    align-items: center; /* Vertically align items */
+  }
+  
+  /* Style the list elements */
+  .navbar ul {
+    list-style: none; /* Remove default bullet points */
+    margin: 0; /* Remove default list margins */
+    padding: 0; /* Remove default list padding */
+  }
+  
+  /* Style individual links */
+  .navbar li {
+    display: inline-block; /* Keep links on the same line */
+    margin-right: 15px; /* Add spacing between links */
+  }
+  
+  .navbar a {
+    text-decoration: None;
+    color: #f6f1f1; /* Dark gray text color */
+    font-weight: 500; /* Slightly bolder font weight */
+    padding: 5px 10px; /* Add some padding to links */
+  }
+  
+  /* Hover effect for links */
+  .navbar a:hover {
+    border-bottom: 1px solid #fafbfc; /* Blue underline */
+  }
